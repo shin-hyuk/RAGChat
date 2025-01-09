@@ -1,0 +1,80 @@
+Summary: The pages provide information on various financial and business documentation. They include an overview of a FinTech Trust Platform, a booklet introducing B2B services by UTGL, and a document on global invoice payment processes. Each page or booklet covers specific content relevant to the service or product it represents, updated by the last edited dates provided.
+
+Key Descriptions:
+- Name: Denotes the title or identifier of the document, outlining the main topic or product being described. It gives insight into the specific content focus, such as FinTech platforms, business solutions, or payment systems, and often indicates the length or type of document.
+- Last Edited Date: Represents the most recent date the document was amended or updated, formatted as 'YYYY-MM-DD'. This is crucial for verifying the relevancy and currency of the information provided in each document.
+
+Name: All-in-One FinTech Trust Platform - SC (1 page)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAFcs7VUApE/TgXrEkH8hN4c2WjLT5nijw/edit
+
+Name: UTGL booklet (Intro + B2B) (12 pages)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAFuOH5Y6g4/hgt2ByQyvMWQrk4DaI_unw/edit
+
+Name: Global Invoice Payment (1 page)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAGRkFbnpPY/-gFf4G-JWQ2z9suZ6nURmA/edit
+
+Name: Digital Assets (1 page)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAGRkPHYo6I/Pyrmnj9hYfEl0Omdzw_XvQ/edit
+
+Name: Co-brand Credit Card Issuing (API) (1 page)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAGRkJUHvAI/o2B62KVJ3QaGixgDvsatJg/edit
+
+Name: Compliant Remittance (1 Page)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAGRkOEhul8/5Cg6MQiuAj7TQWK-qV2aRg/edit
+
+Name: UTGL sales deck_without fees - EN (A4, 7 pages)  
+Last Edited Date: 2024-09-27
+Content: https://www.canva.com/design/DAGNJIjkfhE/3udG_lnHU2Abn0oewMHO5A/edit
+
+Name: All-in-One FinTech Trust Platform - EN (1 page)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAFbvD0LIuw/EwD4CLh6CLXzMRoh-6yZKA/edit
+
+Name: Trust Company White Label_flyer (2 pages)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAGRkFnNYEQ/3bdjU0Nmeiqrz-gorGrbGw/edit
+
+Name: Tax (1 page)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAGRkJL7xXQ/JTdggB10rZmomSvKlF9q0A/edit
+
+Name: Platform Introduction (1 page)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAGRkH62iiY/7a2ri1FbB6kWJbzLZiwQBw/edit
+
+Name: UTGL Name Card Template  
+Last Edited Date: 2024-09-20
+
+Name: UTGL Platform Function Leaflet (2 sides)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAFvDFucXIg/DRIIb2oSWEt0AnasEPFA6A/edit
+
+Name: UK Tax (TC)  
+Last Edited Date: 2024-05-17
+Content: https://www.canva.com/design/DAGRSpKZXZM/Z9BpgtqmKevMKMcms-DqZA/edit
+
+Name: Credit Card Co-brand Deck (TC)  
+Last Edited Date: 2023-03-15
+Content: https://www.canva.com/design/DAFaecuMk5c/TtxksbzfSGtmbamsTdN5yQ/edit
+
+Name: UK Tax (EN)  
+Last Edited Date: 2024-05-17
+Content: https://www.canva.com/design/DAGRSlHeQqo/20uqZdiSc1azUdVb6bItaQ/edit
+
+Name: Sales Deck (for Partner)  
+Last Edited Date: 2024-04-12
+Content: https://www.canva.com/design/DAGB5JqkNN8/1isGqe_nVc8eO1oO1bg_fQ/edit
+
+Name: Credit Card Co-brand Deck  
+Last Edited Date: 2023-09-16
+Content: https://www.canva.com/design/DAFikSU5feo/fS_4mQEzVVXW2nECr7xzGQ/edit
+
+Name: Standard Sales Deck (68 pages)  
+Last Edited Date: 2023-08-24
+Content: https://www.canva.com/design/DAFjy_UfVhI/iv0QiUWRqPEtccDiUluMLw/edit

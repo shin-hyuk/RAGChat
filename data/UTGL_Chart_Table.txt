@@ -1,0 +1,35 @@
+Summary: The pages provide comparative analyses and operational insights related to trust services and financial products. They include comparisons between UTGL Ceramic Card and Amex Black, operational flow and pricing details, evaluations of trust custodians versus major exchanges, and distinctions between UTGL Trust Accounts and traditional bank accounts. Additionally, there is a focus on trust plan comparisons limited to card services. These documents serve to offer detailed evaluations and competitive insights in the financial services sector.
+
+Key Descriptions:
+- Name: This key serves as the title or identifier of the document, outlining the main topic or theme of the content. It illuminates what the document covers, such as financial product comparisons or operational processes, and may include specifics about the content's focus or format.
+- Last Edited Date: This key denotes the most recent date the document was updated, formatted as 'YYYY-MM-DD'. It indicates the recency of the information, which is crucial for ensuring that the content reflects the latest insights and data, enhancing its reliability and relevancy.
+
+Name: UTGL Ceramic Card vs Amex Black  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAFzkCtkT08/rKqMM9rwXmvhYH-yn1zfSA/edit
+
+Name: Operation flow & Pricing (1 page)  
+Last Edited Date: 2024-09-23
+Content: https://www.canva.com/design/DAGRkbXi8Hk/ggRHA2smU5haDhwi9o1irg/edit
+
+Name: Trust Custodian vs Other Major Exchanges  
+Last Edited Date: 2024-09-27
+
+Name: UTGL Trust Account vs Bank Account  
+Last Edited Date: 2024-09-27
+
+Name: Trust Plan Comparison_Card only (SC)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAGRk4aD4io/a2AC7vZYdSuY21JS2MkaFQ/edit
+
+Name: Trust Plan Comparison_Card only  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAGRkjXw1sY/hijPrxAtpzANAB6_pgZ8jQ/edit
+
+Name: UTGL Global Banking Network (Spider Web Diagram)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAFatScsq0Y/ObX2yU8ezeFoN03zvuFstA/edit
+
+Name: UTGL Plan Comparison (full version)  
+Last Edited Date: 2024-09-20
+Content: https://www.canva.com/design/DAF7oUaaq5I/rUi-VsheIBfJaF_VQz5P2w/edit

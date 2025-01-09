@@ -1,0 +1,12 @@
+Summary: The pages document express delivery activities involving financial institutions and managed by a sender named Cody. Each record captures details such as express assignments with banks like SCB, HSBC, and Citibank, along with timings and order numbers. This information is crucial for managing and tracking the logistics of deliveries across these entities over specified dates and times.
+
+Key Descriptions:
+- Express: Identifies the entity involved in the express delivery and the number of packages being handled. It includes banks such as SCB, HSBC, and Citibank, and indicates the scope and assignment of the delivery task.
+- Date: Represents the date on which the express delivery is scheduled, formatted as 'YYYY-MM-DD'. This is key for coordinating and organizing logistics.
+- Order No.: A unique identifier for each delivery task, used for tracking and referencing specific express activities.
+- Sender: The individual responsible for managing or dispatching the delivery, providing accountability and possibly a point of contact for the transaction.
+- Time: Specifies the time of day—either 'AM' or 'PM'—when the express delivery is scheduled, assisting in planning and execution of delivery tasks within the appropriate part of the day.
+- no: Refers to the sequential number for indexing each record within the delivery logs, aiding in organization and retrieval processes.
+- 到取 (Pickup Time): Describes the exact date and time when the package is scheduled for pickup, formatted as 'YYYY-MM-DD HH:MM', crucial for ensuring timely collection.
+- 交回 (Return Time): Indicates the planned return date and time for the express packages, formatted as 'YYYY-MM-DD HH:MM', essential for confirming delivery completion.
+

@@ -1,0 +1,497 @@
+Summary: The pages document a series of financial transactions involving specific individuals, detailing the amounts transacted, the date and time of each transaction, and the associated activities or purposes. These include various names for records of expenses, highlighting the regular engagements or expenditures involved.
+
+Key Descriptions:
+- Create Time: Indicates the exact date and time when each transaction was recorded, providing a precise temporal context formatted as 'YYYY-MM-DD HH:MM'.
+- Amount: Represents the numerical value of each financial transaction, indicating the expenses incurred in the transactions.
+- Name: Describes the purpose or nature of each transaction, translated from Chinese where necessary, such as takeaway or specific venues, providing insight into what the transaction was for.
+- Person: Lists the individuals associated with each transaction, providing information on who was involved in the financial activities documented.
+
+Create Time: 2024-11-28 05:26  
+Amount: -381  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-27 05:34  
+Amount: -454  
+Name: Fu Wah  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-26 04:30  
+Amount: -397  
+Name: Lunch  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-25 06:06  
+Amount: -226  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-22 05:42  
+Amount: -196  
+Name: Wonder  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-22 02:56  
+Amount: -86  
+Name: Breakfast (Dezhou)  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-21 09:08  
+Amount: -208  
+Name: Food Panda  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-20 10:01  
+Amount: -89  
+Name: Takeaway No Receipt (Tommy)  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-20 04:47  
+Amount: -246  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-20 04:47  
+Amount: 3000  
+Name: Cash in (Hei)  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-20 04:38  
+Amount: -154  
+Name: Takeaway (19/11)  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-18 04:40  
+Amount: -254  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-15 09:30  
+Amount: -44  
+Name: Takeaway (BOSS)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-15 04:53  
+Amount: -147  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-14 05:39  
+Amount: -148  
+Name: Fu Wah (No Receipt) Blown Away by the Wind  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-13 05:33  
+Amount: -306  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-12 05:08  
+Amount: -225  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, KAT WONG UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-11-11 07:12  
+Amount: -352  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-11-08 05:25  
+Amount: -243  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-07 05:04  
+Amount: -262  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-11-06 05:24  
+Amount: -315  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-05 05:08  
+Amount: -399  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-05 04:47  
+Amount: -33  
+Name: SF  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-05 04:47  
+Amount: -370  
+Name: Takeaway (04/11)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-05 04:47  
+Amount: 3000  
+Name: Cash in  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-01 08:38  
+Amount: -180  
+Name: Takeaway (31/10)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-11-01 08:38  
+Amount: -174  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-31 05:34  
+Amount: -239  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-30 05:27  
+Amount: -390  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-28 08:28  
+Amount: -232  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-25 06:58  
+Amount: -45  
+Name: UCBUY  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-25 05:15  
+Amount: -80  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-25 04:52  
+Amount: -232  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-24 06:53  
+Amount: -45  
+Name: UCBUY  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-24 05:22  
+Amount: -392  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-24 05:22  
+Amount: -334  
+Name: Takeaway (23/10)  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-22 05:02  
+Amount: -650  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-21 05:20  
+Amount: -454  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-21 05:09  
+Amount: 3500  
+Name: Cash in  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-18 04:52  
+Amount: -254  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-17 07:22  
+Amount: -139  
+Name: Takeaway No Receipt (Kat.Hei)  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-17 06:06  
+Amount: -232  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-16 05:12  
+Amount: -428  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-15 09:06  
+Amount: 243  
+Name: Cash in SF Freight Collect (Hei)  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-15 07:43  
+Amount: -243  
+Name: SF Freight Collect  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-15 05:11  
+Amount: -312  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-14 10:00  
+Amount: -840  
+Name: Genki  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-10 05:30  
+Amount: -317  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-09 05:08  
+Amount: -392  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-10-08 05:35  
+Amount: -312  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-08 02:19  
+Amount: -42  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-07 07:08  
+Amount: 3500  
+Name: Cash in  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-07 06:29  
+Amount: -54  
+Name: UCBUY  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-07 05:55  
+Amount: -428  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-04 04:55  
+Amount: -254  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-10-04 03:45  
+Amount: -135  
+Name: UCBUY  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-03 05:33  
+Amount: -392  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-10-02 05:40  
+Amount: -334  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-09-30 05:20  
+Amount: -232  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-27 05:01  
+Amount: -196  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-26 08:46  
+Amount: -114  
+Name: Takeaway (Ken, Hei) No Receipt  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-26 03:53  
+Amount: 2000  
+Name: Cash in (Kat, Hei, Bill, Ken)  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-25 05:34  
+Amount: -312  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-09-24 06:14  
+Amount: -122  
+Name: Takeaway  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-09-24 05:33  
+Amount: -61  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-09-23 05:24  
+Amount: -312  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-20 05:25  
+Amount: -196  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-19 08:39  
+Amount: -196  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-17 05:35  
+Amount: -150  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-16 08:19  
+Amount: -312  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-16 04:36  
+Amount: 1000  
+Name: Cash in (Ken and Ming)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-13 09:01  
+Amount: 50  
+Name: Cash in (Tommy)  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-09-13 05:39  
+Amount: -290  
+Name: Homemade Dishes  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-09-12 05:27  
+Amount: -174  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-11 05:15  
+Amount: -190  
+Name: Takeaway  
+Person: KAT WONG UFX, HEI Tse Kin Hei UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-10 06:36  
+Amount: -116  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-09 06:24  
+Amount: 1500  
+Name: Top up Cash - Hei  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-09-09 05:34  
+Amount: -221  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-09-05 06:01  
+Amount: -185  
+Name: Fu Wah  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-09-04 05:33  
+Amount: -234  
+Name: Fu Wah  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-09-03 04:42  
+Amount: -222  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, KAT WONG UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-09-02 05:13  
+Amount: -174  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, KAT WONG UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-08-30 06:24  
+Amount: -150  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-27 05:01  
+Amount: -154  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, KAT WONG UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-08-26 05:51  
+Amount: 1500  
+Name: Cash in  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-08-26 05:46  
+Amount: -174  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-23 05:02  
+Amount: -174  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-23 05:01  
+Amount: -247  
+Name: Takeaway (23 Aug)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-21 04:38  
+Amount: -174  
+Name: Takeaway  
+Person: BIL Bill Yip UFX, KAT WONG UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-08-20 04:55  
+Amount: -90  
+Name: Takeaway (No Receipt)  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-19 05:44  
+Amount: -235  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-08-16 08:57  
+Amount: -116  
+Name: Takeaway  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-15 05:42  
+Amount: -61  
+Name: Tokushima  
+Person: HEI Tse Kin Hei UFX, BIL Bill Yip UFX, KAT WONG UFX
+
+Create Time: 2024-08-14 05:21  
+Amount: -121  
+Name: Tong Kee  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-08-13 06:24  
+Amount: 30  
+Name: Cash in - SF  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX
+
+Create Time: 2024-08-13 05:34  
+Amount: -53  
+Name: SUBWAY  
+Person: KAT WONG UFX, BIL Bill Yip UFX, HEI Tse Kin Hei UFX
+
+Create Time: 2024-08-13 05:34  
+Amount: -97  
+Name: SUBWAY  
+Person: BIL Bill Yip UFX, HEI Tse Kin Hei UFX, KAT WONG UFX
+
+Create Time: 2024-08-12 09:31  
+Amount: -30  
+Name: SF  
+Person: HEI Tse Kin Hei UFX, KAT WONG UFX, BIL Bill Yip UFX

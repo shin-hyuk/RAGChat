@@ -1,0 +1,110 @@
+Summary: The pages outline various payment terms and associated costs for different financial services and products. These include fees for custodial deed setup, co-branding, small transactions, card production, and card cancellation. The information is structured based on when payments are required and the specific cost implications for each service.
+
+Key Descriptions:
+- Product/service: This key identifies the specific service or product for which the charges are being applied, such as custodial deed setup, bin sponsor setup, transaction fees, card production, and cancellation. It provides clarity on what each charge pertains to.
+- Payment Terms: This key details the conditions and timing for payment, including options such as one-time, upon signing of an agreement, upon transaction completion, or finalization of an order. This is essential for financial planning and management.
+- Charges (HKD): This key specifies the monetary amount in Hong Kong Dollars (HKD) that must be paid for each service or product. It includes fixed amounts and percentage-based charges, helping to understand the financial commitment required.
+
+Product/service: Custodial Deed Setup  
+Payment Terms: One Time  
+Charges (HKD): 20,000
+
+Product/service: Bin Sponsor/Co-brand Setup Fee  
+Payment Terms: Upon signing of Agreement  
+Charges (HKD): 250,000
+
+Product/service: Small transaction Fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 8 per transaction
+
+Product/service: Card Production Fee  
+Payment Terms: Finalization of order with Card Manufacturer  
+Charges (HKD): Cost +20%
+
+Product/service: Card Cancellation Fee  
+Payment Terms: Upon request is submitted  
+Charges (HKD): 0
+
+Product/service: Trust Custodial Fee  
+Payment Terms: Monthly  
+Charges (HKD): 0.05% of injection volume
+
+Product/service: Card Issuance / Account Application Fee (KYC)  
+Payment Terms: Upon new card issuance / account setup  
+Charges (HKD): 15 per card
+
+Product/service: Card Bin Annual Fee  
+Payment Terms: Yearly  
+Charges (HKD): 10 per card
+
+Product/service: Crypto to USD (FX)  
+Payment Terms: Upon transaction is made  
+Charges (HKD): Spot - 0.5%
+
+Product/service: Custodial Deed Maintenance  
+Payment Terms: Yearly  
+Charges (HKD): 10,000
+
+Product/service: Account Maintenance Fee  
+Payment Terms: Yearly  
+Charges (HKD): 10 per card
+
+Product/service: Card design approval fee (per submission)  
+Payment Terms: On submission of card design to MC  
+Charges (HKD): 7,000
+
+Product/service: API Solution Setup Fee*  
+Payment Terms: Upon API Integration Initialisation  
+Charges (HKD): 120,000
+
+Product/service: Whatsapp / SMS  
+Payment Terms: Monthly  
+Charges (HKD): 1 per message
+
+Product/service: Card embossing machine  
+Payment Terms: Upon order from factory  
+Charges (HKD): Cost +20%
+
+Product/service: Authorization failure fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 2 per transaction
+
+Product/service: Extra Rebate Commission (exclusive to VIP partner)  
+Payment Terms: Monthly  
+Charges (HKD): 0.3% for Platinum card spending
+
+Product/service: Overseas Cross border Fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 2% per transaction
+
+Product/service: Card Mailing Fee  
+Payment Terms: Monthly  
+Charges (HKD): cost +20%
+
+Product/service: Welcome Package Production Fee  
+Payment Terms: Upon order from factory  
+Charges (HKD): cost +20%
+
+Product/service: API Solution Maintenance Fee  
+Payment Terms: Yearly  
+Charges (HKD): 120,000
+
+Product/service: Any Other Extra Cost  
+Payment Terms: Monthly  
+Charges (HKD): Cost + 20%
+
+Product/service: Local Cash Advance Fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 20 per transaction (min 50)
+
+Product/service: Refund Transaction Fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 2 per transaction
+
+Product/service: Document Request Fee  
+Payment Terms: Upon request is submitted  
+Charges (HKD): 150 per request
+
+Product/service: Overseas Cash Advance Fee  
+Payment Terms: Upon transaction is made  
+Charges (HKD): 2.5% per transaction

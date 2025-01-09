@@ -1,0 +1,25 @@
+Summary: These pages encompass a range of documents related to financial and business presentations as well as tax guidance. They include sales presentations and tax documents tailored for different regions and languages, specifically focusing on the UK tax system and trust-related information. The content reflects various purposes such as educating and providing strategic guidance in financial matters.
+
+Key Descriptions:
+- Name: This key represents the title or identifier of the document, providing insight into its main topic or focus area. It suggests the type and content of the document, such as sales presentations, tax guidance, and informational booklets about trusts, while also indicating targeted language or regional specificity, like "UniTrust," "EN" (English), or "TC" (Traditional Chinese).
+- Last Edited Date: This key indicates the most recent date the document was amended or updated, formatted as 'YYYY-MM-DD'. It is essential for understanding the currency and relevancy of the information within each document, allowing users to gauge how up-to-date the content is.
+
+Name: Standard Sales Deck_No Crypto_UniTrust Version (68 pages)  
+Last Edited Date: 2023-08-24
+Content: https://www.canva.com/design/DAGRSjOpSOU/DIffUVc8NVIHbPTqaDTMWA/edit
+
+Name: UK Tax_UniTrust (EN)  
+Last Edited Date: 2024-05-17
+Content: https://www.canva.com/design/DAGAw6U9Za4/UbyXisP8-9VdafkAKtDfsw/edit
+
+Name: UTGL Sales PPT (TC)_2023  
+Last Edited Date: 2023-12-17
+Content: https://www.canva.com/design/DAF3lttAXsI/UyH0828lmQs33zS1wlcHrA/edit
+
+Name: UK Tax_UniTrust (TC)  
+Last Edited Date: 2024-05-17
+Content: https://www.canva.com/design/DAGRSp_gkaw/jXTYY-jZ16c3acqdDkns_A/edit
+
+Name: Trust Book _What is Trust (TC)  
+Last Edited Date: 2023-09-16
+Content: https://www.canva.com/design/DAFmPH3zRrI/R5WfnD3pMwrYJsQI4t4_QQ/edit

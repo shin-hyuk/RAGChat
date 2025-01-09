@@ -1,0 +1,12 @@
+Summary: These pages document the scheduling and tracking details for express deliveries from various banks, specifying the date, time, order numbers, and pickup and return logistics. The records provide insights into the logistics and coordination efforts for package handling and express services involving banks like DBS, BOCOM, and HSBC.
+
+Key Descriptions:
+- Express: Identifies the bank associated with the express delivery, highlighting the entity involved in the dispatch.
+- Date: Represents the specific day on which the express service is scheduled, formatted as 'YYYY-MM-DD'. This is crucial for tracking the timeline of dispatches and returns.
+- Order No.: A unique identifier assigned to each delivery order, aiding in the organization and tracking of packages.
+- Sender: Refers to the individual responsible for sending the parcels, providing a point of contact or accountability.
+- Time: Indicates the general time of day ('AM' or 'PM') when the express delivery occurs, providing an additional timeframe reference.
+- no: Represents the sequential order number for context within the list, aiding in the organization and retrieval of records.
+- 到取 (Pickup Time): Specifies the date and time when the package was scheduled for pickup, formatted as 'YYYY-MM-DD HH:MM'. This is essential for ensuring timely collection.
+- 交回 (Return Time): Details the expected date and time of return for the package, formatted as 'YYYY-MM-DD HH:MM'. This is vital for ensuring package tracking and completion of the delivery process.
+

@@ -1,0 +1,709 @@
+Summary: These pages document a series of express deliveries, detailing transactions handled by different banking institutions. Each entry provides information on the express service used, the timing of the delivery, the specific date on which it was executed, the unique order number for tracking, a transaction number, and the individual overseeing the process.
+
+Key Descriptions:
+- Date: Indicates the specific day on which the transaction or delivery was executed, helping to contextualize the operations chronologically, formatted as 'YYYY-MM-DD'.
+- Express: Specifies the banking institution involved in handling the express transaction, indicating which bank's services were utilized for the delivery.
+- Time: Provides the period of the day during which the transaction was carried out, in this case specified as 'PM', to clarify the scheduling or timing of the delivery.
+- Order No.: Refers to the unique identifier associated with each express transaction, used for tracking and verification purposes.
+- no: Represents the transaction number for each entry, providing an additional layer of identification or sequencing for the express deliveries.
+- Sender: Indicates the individual responsible for initiating or overseeing the transaction, in this case, "Mandy IP".
+
+Date: 2024-11-29  
+Express: HSBC x 4  
+Time: PM  
+Order No.: 790771-1335-9081  
+no: 107  
+Sender: Mandy IP
+
+Date: 2024-11-29  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1333-9053  
+no: 106  
+Sender: Mandy IP
+
+Date: 2024-11-29  
+Express: Hang Seng x 1  
+Time: PM  
+Order No.: 790771-1333-9067  
+no: 105  
+Sender: Mandy IP
+
+Date: 2024-11-29  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1340-9060  
+no: 104  
+Sender: Mandy IP
+
+Date: 2024-11-29  
+Express: Citic x 1  
+Time: PM  
+Order No.: 790771-1329-9095  
+no: 103  
+Sender: Mandy IP
+
+Date: 2024-11-29  
+Express: HSBC x 3  
+Time: PM  
+Order No.: 790771-1394-9060  
+no: 102  
+Sender: Cody Lau
+
+Date: 2024-11-29  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1395-9067  
+no: 101  
+Sender: Cody Lau
+
+Date: 2024-11-27  
+Express: OCBC x 1  
+Time: PM  
+Order No.: 790771-1393-9053  
+no: 100  
+Sender: Cody Lau
+
+Date: 2024-11-27  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1392-9046  
+no: 99  
+Sender: Cody Lau
+
+Date: 2024-11-27  
+Express: DBS  
+Time: PM  
+Order No.: 790771-1338-9102  
+no: 98  
+Sender: Mandy
+
+Date: 2024-11-27  
+Express: O-bank x 1  
+Time: PM  
+Order No.: 790771-1391-9039  
+no: 97  
+Sender: Cody Lau
+
+Date: 2024-11-27  
+Express: Citibank x 1  
+Time: PM  
+Order No.: 790771-1390-9032  
+no: 96  
+Sender: Cody Lau
+
+Date: 2024-11-27  
+Express: China Minsheng Bank x 2  
+Time: PM  
+Order No.: 790771-1389-9081  
+no: 95  
+Sender: Cody Lau
+
+Date: 2024-11-26  
+Express: Dah Sing x 2  
+Time: PM  
+Order No.: 790771-1388-9074  
+no: 94  
+Sender: Cody Lau
+
+Date: 2024-11-26  
+Express: ICBC x 1  
+Time: PM  
+Order No.: 790771-1387-9067  
+no: 93  
+Sender: Cody Lau
+
+Date: 2024-11-26  
+Express: HSBC x 3  
+Time: PM  
+Order No.: 790771-1386-9060  
+no: 92  
+Sender: Cody Lau
+
+Date: 2024-11-26  
+Express: Wing Hang x 1  
+Time: PM  
+Order No.: 790771-1385-9053  
+no: 91  
+Sender: Cody Lau
+
+Date: 2024-11-26  
+Express: China Minsheng Bank x 2  
+Time: PM  
+Order No.: 790771-1383-9039  
+no: 90  
+Sender: Cody Lau
+
+Date: 2024-11-22  
+Express: HSBC x 4  
+Time: PM  
+Order No.: 790771-1310-9018  
+no: 81  
+Sender: Cody Lau
+
+Date: 2024-11-04  
+Express: HSBC x 2  
+Time: PM  
+Order No.: 790771-1382-9032  
+no: 7  
+Sender: Cody Lau
+
+Date: 2024-11-22  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1303-9025  
+no: 84  
+Sender: Cody Lau
+
+Date: 2024-11-04  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1381-9025  
+no: 11  
+Sender: Cody LAU
+
+Date: 2024-11-25  
+Express: ICBC x 1  
+Time: PM  
+Order No.: 790771-1311-9025  
+no: 87  
+Sender: Cody Lau
+
+Date: 2024-11-25  
+Express: Chiyu x 2  
+Time: PM  
+Order No.: 790771-1384-9046  
+no: 89  
+Sender: Cody Lau
+
+Date: 2024-11-25  
+Express: HSBC x 3  
+Time: PM  
+Order No.: 790771-1307-9053  
+no: 88  
+Sender: Cody Lau
+
+Date: 2024-11-15  
+Express: Hang Seng x 2  
+Time: PM  
+Order No.: 790771-1330-9046  
+no: 60  
+Sender: Mandy IP
+
+Date: 2024-11-13  
+Express: DBS x 1  
+Time: PM  
+Order No.: 790771-1343-9081  
+no: 50  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: DBS x 2  
+Time: PM  
+Order No.: 790771-1373-9025  
+no: 24  
+Sender: Cody LAU
+
+Date: 2024-11-01  
+Express: Wing Lung Application for Checkbook Form  
+Time: PM  
+Order No.: 790771-1261-9074  
+no: 2  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: HSBC x 2  
+Time: PM  
+Order No.: 790771-1364-9018  
+no: 29  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: China Minsheng Bank x 1  
+Time: AM  
+Order No.: 790771-1367-9039  
+no: 23  
+Sender: Cody LAU
+
+Date: 2024-11-11  
+Express: ICBC x 1  
+Time: PM  
+Order No.: 790771-1358-9032  
+no: 39  
+Sender: Cody LAU
+
+Date: 2024-11-08  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1365-9025  
+no: 35  
+Sender: Cody LAU
+
+Date: 2024-11-15  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1332-9060  
+no: 59  
+Sender: Mandy IP
+
+Date: 2024-11-14  
+Express: BCC x 1  
+Time: PM  
+Order No.: 790771-1349-9025  
+no: 56  
+Sender: Mandy Ip
+
+Date: 2024-11-18  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1322-9046  
+no: 64  
+Sender: Cody Lau
+
+Date: 2024-11-13  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1350-9074  
+no: 53  
+Sender: Cody LAU
+
+Date: 2024-11-08  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1361-9095  
+no: 33  
+Sender: Cody LAU
+
+Date: 2024-11-22  
+Express: China Minsheng Bank x 2  
+Time: PM  
+Order No.: 790771-1305-9039  
+no: 83  
+Sender: Cody Lau
+
+Date: 2024-11-11  
+Express: OCBC x 2  
+Time: PM  
+Order No.: 790771-1356-9018  
+no: 41  
+Sender: Cody LAU
+
+Date: 2024-11-13  
+Express: Dah Sing x 2  
+Time: PM  
+Order No.: 790771-1348-9018  
+no: 48  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: Chiyu x 1  
+Time: PM  
+Order No.: 790771-1374-9032  
+no: 19  
+Sender: Cody LAU
+
+Date: 2024-11-13  
+Express: ICBC x 1  
+Time: PM  
+Order No.: 790771-1341-9067  
+no: 52  
+Sender: Cody LAU
+
+Date: 2024-11-20  
+Express: HSBC x 3  
+Time: PM  
+Order No.: 790771-1316-9060  
+no: 72  
+Sender: Cody Lau
+
+Date: 2024-11-19  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1321-9039  
+no: 69  
+Sender: Cody Lau
+
+Date: 2024-11-05  
+Express: Hang Seng x 2  
+Time: PM  
+Order No.: 790771-1368-9046  
+no: 18  
+Sender: Cody LAU
+
+Date: 2024-11-13  
+Express: O-Bank x 2  
+Time: PM  
+Order No.: 790771-1345-9095  
+no: 51  
+Sender: Cody LAU
+
+Date: 2024-11-01  
+Express: Wing Hang  
+Time: PM  
+Order No.: 790771-1260-9067  
+no: 5  
+Sender: Cody LAU
+
+Date: 2024-11-25  
+Express: BOCOM x 2  
+Time: PM  
+Order No.: 790771-1309-9067  
+no: 86  
+Sender: Cody Lau
+
+Date: 2024-11-21  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1304-9032  
+no: 79  
+Sender: Cody Lau
+
+Date: 2024-11-18  
+Express: BCC x 2  
+Time: PM  
+Order No.: 790771-1320-9032  
+no: 62  
+Sender: Cody Lau
+
+Date: 2024-11-05  
+Express: BOC x 1  
+Time: PM  
+Order No.: 790771-1372-9018  
+no: 21  
+Sender: Cody LAU
+
+Date: 2024-11-14  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1347-9011  
+no: 55  
+Sender: Mandy Ip
+
+Date: 2024-11-15  
+Express: CCB x 1  
+Time: PM  
+Order No.: 790771-1336-9088  
+no: 58  
+Sender: Mandy IP
+
+Date: 2024-11-12  
+Express: Doc  
+Time: PM  
+Order No.: 790771-955-9010  
+no: 42  
+Sender: Carol Choi
+
+Date: 2024-11-04  
+Express: DBS x 1  
+Time: PM  
+Order No.: 790771-1377-9053  
+no: 8  
+Sender: Cody LAU
+
+Date: 2024-11-14  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1334-9074  
+no: 57  
+Sender: Cody Lau
+
+Date: 2024-11-20  
+Express: O-Bank x 3  
+Time: PM  
+Order No.: 790771-1318-9074  
+no: 74  
+Sender: Cody Lau
+
+Date: 2024-11-08  
+Express: HSBC x 2  
+Time: PM  
+Order No.: 790771-1354-9102  
+no: 38  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: Dah Sing x 1  
+Time: PM  
+Order No.: 790771-1375-9039  
+no: 26  
+Sender: Cody LAU
+
+Date: 2024-11-01  
+Express: BCC x 1  
+Time: PM  
+Order No.: 790771-1259-9018  
+no: 3  
+Sender: Cody LAU
+
+Date: 2024-11-07  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 790771-1359-9039  
+no: 32  
+Sender: Mandy IP
+
+Date: 2024-11-19  
+Express: OCBC x 1  
+Time: PM  
+Order No.: 790771-1326-9074  
+no: 71  
+Sender: Cody Lau
+
+Date: 2024-11-13  
+Express: Citibank x 1  
+Time: PM  
+Order No.: 790771-1344-9088  
+no: 47  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: OCBC x 1  
+Time: PM  
+Order No.: 790771-1268-9025  
+no: 17  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: BOC x 5  
+Time: PM  
+Order No.: 790771-1284-9025  
+no: 20  
+Sender: Cody LAU
+
+Date: 2024-11-21  
+Express: ICBC x 1  
+Time: PM  
+Order No.: 790771-1325-9067  
+no: 75  
+Sender: Cody Lau
+
+Date: 2024-11-08  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1352-9088  
+no: 37  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: O-Bank x 1  
+Time: PM  
+Order No.: 790771-1376-9046  
+no: 22  
+Sender: Cody LAU
+
+Date: 2024-11-11  
+Express: HSBC x 2  
+Time: PM  
+Order No.: 790771-1351-9081  
+no: 40  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: CCB x 1  
+Time: PM  
+Order No.: 790771-1280-9095  
+no: 13  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: Dah Sing x 1  
+Time: PM  
+Order No.: 790771-1267-9018  
+no: 15  
+Sender: Cody LAU
+
+Date: 2024-11-13  
+Express: HSBC x 2  
+Time: PM  
+Order No.: 790771-1346-9102  
+no: 49  
+Sender: Cody LAU
+
+Date: 2024-11-04  
+Express: Citibank x 1  
+Time: PM  
+Order No.: 790771-1380-9018  
+no: 6  
+Sender: Cody LAU
+
+Date: 2024-11-08  
+Express: Citibank x 1  
+Time: PM  
+Order No.: 790771-1363-9011  
+no: 34  
+Sender: Cody LAU
+
+Date: 2024-11-18  
+Express: Dah Sing x 1  
+Time: PM  
+Order No.: 790771-1339-9011  
+no: 63  
+Sender: Cody Lau
+
+Date: 2024-11-22  
+Express: CCB x 2  
+Time: PM  
+Order No.: 790771-1308-9060  
+no: 82  
+Sender: Cody Lau
+
+Date: 2024-11-21  
+Express: HSBC x 4  
+Time: PM  
+Order No.: 790771-1317-9067  
+no: 78  
+Sender: Cody Lau
+
+Date: 2024-11-12  
+Express: China Minsheng Bank x 4  
+Time: PM  
+Order No.: 790771-1357-9025  
+no: 46  
+Sender: Mandy IP
+
+Date: 2024-11-18  
+Express: DBS x 1  
+Time: PM  
+Order No.: 790771-1337-9095  
+no: 61  
+Sender: Cody Lau
+
+Date: 2024-11-18  
+Express: DBS x 3  
+Time: PM  
+Order No.: 790771-1324-9060  
+no: 67  
+Sender: Cody Lau
+
+Date: 2024-11-21  
+Express: BOC x 1  
+Time: PM  
+Order No.: 790771-1306-9046  
+no: 80  
+Sender: Cody Lau
+
+Date: 2024-11-01  
+Express: China Minsheng Bank x 2  
+Time: PM  
+Order No.: 790771-1282-9011  
+no: 1  
+Sender: Mandy IP
+
+Date: 2024-11-05  
+Express: Volkswagen Bank x 1  
+Time: PM  
+Order No.: 790771-1269-9032  
+no: 14  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: SCB x 1  
+Time: PM  
+Order No.: 790771-1262-9081  
+no: 12  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: Citic Application for Checkbook x 2  
+Time: PM  
+Order No.: 790771-1362-9102  
+no: 28  
+Sender: Cody LAU
+
+Date: 2024-11-07  
+Express: China Minsheng Bank x 1  
+Time: PM  
+Order No.: 790771-1370-9102  
+no: 31  
+Sender: Cody LAU
+
+Date: 2024-11-20  
+Express: DBS x 1  
+Time: PM  
+Order No.: 790771-1314-9046  
+no: 73  
+Sender: Cody Lau
+
+Date: 2024-11-12  
+Express: BOC x 1  
+Time: PM  
+Order No.: 790771-1355-9011  
+no: 44  
+Sender: Mandy IP
+
+Date: 2024-11-21  
+Express: BOCOM x 1  
+Time: PM  
+Order No.: 790771-1313-9039  
+no: 76  
+Sender: Cody Lau
+
+Date: 2024-11-08  
+Express: DBS x 1  
+Time: PM  
+Order No.: 790771-1369-9053  
+no: 36  
+Sender: Cody LAU
+
+Date: 2024-11-12  
+Express: HSBC x 1  
+Time: PM  
+Order No.: 79071-1353-9095  
+no: 43  
+Sender: Mandy IP
+
+Date: 2024-11-22  
+Express: Citibank x 2  
+Time: PM  
+Order No.: 790771-1312-9032  
+no: 85  
+Sender: Cody Lau
+
+Date: 2024-11-04  
+Express: Chiyu x 1  
+Time: PM  
+Order No.: 790771-1379-9067  
+no: 10  
+Sender: Cody LAU
+
+Date: 2024-11-06  
+Express: BEA x 1  
+Time: PM  
+Order No.: 790771-1360-9088  
+no: 27  
+Sender: Cody LAU
+
+Date: 2024-11-19  
+Express: Hang Seng x 1  
+Time: PM  
+Order No.: 790771-1323-9053  
+no: 68  
+Sender: Cody Lau
+
+Date: 2024-11-04  
+Express: Hang Seng x 1  
+Time: PM  
+Order No.: 790771-1378-9060  
+no: 9  
+Sender: Cody LAU
+
+Date: 2024-11-05  
+Express: BOCOM x 2  
+Time: PM  
+Order No.: 790771-1266-9011  
+no: 16  
+Sender: Cody LAU
+
+Date: 2024-11-14  
+Express: Document  
+Time: PM  
+Order No.: 790771-955-9010  
+no: 54  
+Sender: Carol Choi
+
+Date: 2024-11-18  
+Express: Hang Seng x 1  
+Time: PM  
+Order No.: 790771-1328-9088  
+no: 66  
+Sender: Cody Lau

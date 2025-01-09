@@ -1,0 +1,12 @@
+Summary: The pages detail records of express delivery services, focusing on logistics coordination, such as delivery and pickup scheduling, alongside identifying details like order numbers and sender information. These records are essential for tracking and managing the express delivery workflow, specifically highlighting tasks managed by individuals like Carol and Cody, with services related to entities such as Hang Seng.
+
+Key Descriptions:
+- Express: Specifies the nature of the express delivery assignment, which could denote an entity involved or a specific task like sending items, indicating the operation's purpose.
+- Date: Indicates the date associated with each express delivery task, formatted as 'YYYY-MM-DD'. This key is critical for organizing the timeline of delivery logistics.
+- Order No.: The unique identifier for each delivery order, aiding in tracking and referencing specific tasks or shipments.
+- Sender: Identifies the person responsible for coordinating or managing the delivery, providing accountability and contact information.
+- Time: Denotes the general time of day ('AM' or 'PM') when the express activity is scheduled, helping align logistical operations with business hours.
+- no: Provides a sequential number for indexing and organizing records within the delivery process framework.
+- 到取 (Pickup Time): Details the exact date and time when the package is scheduled for pickup, formatted as 'YYYY-MM-DD HH:MM', crucial for tracking the completion of delivery steps.
+- 交回 (Return Time): Specifies the intended return date and time for the package, formatted as 'YYYY-MM-DD HH:MM', essential for confirming delivery timelines and service punctuality.
+

@@ -1,0 +1,72 @@
+Summary: These pages provide a monthly overview of a customer onboarding process, detailing the number of sign-ups, the individuals passed to the relationship manager (RM), and the total onboarded customers across several months in 2024.
+
+Key Descriptions:
+- Month: Represents the specific month in 2024 during which the sign-up and onboarding activities took place. It helps in organizing and analyzing trends over time.
+- No. of sign-up: Indicates the total number of new sign-ups received during the month, reflecting the initial interest in the services or products offered.
+- Onboard: Refers to the number of individuals who successfully completed the onboarding process during that month, highlighting the effectiveness of converting sign-ups to active participants.
+- Pass to RM: Denotes the number of individuals who were referred to a relationship manager for further engagement, showcasing a step in the customer management and personalization process.
+
+Month: October  
+No. of sign-up: 191  
+Onboard: 37  
+Pass to RM: 5
+
+Month: September  
+No. of sign-up: 196  
+Onboard: 34  
+Pass to RM: 5
+
+Month: August  
+No. of sign-up: 200  
+Onboard: 42  
+Pass to RM: 8
+
+Month: July  
+No. of sign-up: 227  
+Onboard: 37  
+Pass to RM: 9
+
+Month: June  
+No. of sign-up: 237  
+Onboard: 27  
+Pass to RM: 12
+
+Month: May  
+No. of sign-up: 324  
+Onboard: 32  
+Pass to RM: 11
+
+Month: April  
+No. of sign-up: 456  
+Onboard: 53  
+Pass to RM: 20
+
+Month: March  
+No. of sign-up: 504  
+Onboard: 22  
+Pass to RM: 12
+
+Month: February  
+No. of sign-up: 189  
+Onboard: 10  
+Pass to RM: 19
+
+Month: January  
+No. of sign-up: 122  
+Onboard: 4  
+Pass to RM: 7
+
+Month: December  
+No. of sign-up: 91  
+Onboard: 5  
+Pass to RM: 43
+
+Month: November  
+No. of sign-up: 130  
+Onboard: 5  
+Pass to RM: 8
+
+Month: October  
+No. of sign-up: 208  
+Onboard: 5  
+Pass to RM: 24

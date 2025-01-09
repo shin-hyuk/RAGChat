@@ -1,0 +1,14 @@
+Summary: These pages provide details about various UTGL Platinum USD MasterCard transactions issued in Russia. Each entry outlines specific cardholder information, transaction details, and card numbers, focusing on transactions that occurred in early November 2024.
+
+Key Descriptions:
+- Date: Specifies the day on which the card transaction or record was noted, formatted as 'YYYY-MM-DD'. This provides a chronological context for the transactions.
+- Card Product: Denotes the type of financial card used, in this context, all being UTGL Platinum USD MasterCards, to identify the product offering.
+- Embossed Name: The name of the individual cardholder as printed on the card, providing identification of the card owner involved in the transaction.
+- Card Number: A unique identifier for each card, ensuring traceability and verification of transactions.
+- Country: Indicates the country where the card was issued or used, providing geographical context to the transaction, Russia in this case.
+- RM: Refers to the relationship manager or the type of management (ONS/OTC) handling the account, giving insights into who facilitates the transaction.
+- Amount: Represents the numerical monetary value associated with each transaction, indicating the financial extent of the transaction.
+- Item Number: A unique tracking or reference number for internal records or shipment associated with each card or transaction.
+- No.: The sequential number for records, helping in organization and tracking within the dataset.
+- Card: Specifies additional card details or status, marked as 'None' in all instances, possibly indicating the lack of further information or specific characteristics noted in these pages.
+

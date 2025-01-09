@@ -1,0 +1,7 @@
+Summary: The pages detail the financial terms associated with various services provided by UTGL and the co-brander, focused on the sharing of net profits and specific fees in Hong Kong Dollars (HKD) for various items. These include refund transaction fees, dormant account maintenance, international spending, annual card maintenance, and additional card applications, highlighting the cost structure and profit distribution between the two entities.
+
+Key Descriptions:
+- Net Profit Sharing Ratio: Indicates the percentage distribution of net profits between UTGL and the co-brander (COB), showcasing how revenue is divided based on their business agreement.
+- Fee Setting (HKD): Represents the specific cost applied to each item, expressed in Hong Kong Dollars. This outlines the charges imposed for each specified service or product.
+- Item: Describes the type of service or transaction to which the fee setting applies. This includes refund transaction fees, dormant account fees, overseas spending, card maintenance, and additional card applications, providing clarity on the context and nature of each financial charge.
+

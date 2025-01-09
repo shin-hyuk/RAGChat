@@ -1,0 +1,839 @@
+Summary: These pages contain records of express package deliveries associated with different banks, managed by specific senders on specified dates and times. The orders include details on the number of items, order numbers, collection and return times, and senders involved in the transaction process from various dates in October and November 2024.
+
+Key Descriptions:
+- Date: Indicates the specific day on which the express service is scheduled, formatted as 'YYYY-MM-DD'. This is essential for tracking the timeline of dispatches and returns.
+- Express: Describes the bank associated with the express delivery, highlighting the involved entities.
+- Sender: Refers to the individual responsible for sending the parcels, providing a point of contact or accountability.
+- Order No.: A unique identifier assigned to each delivery order, aiding in the organization and tracking of packages.
+- no: Represents the sequential order number for context within the list, helping in the organization and retrieval of records.
+- 到取 (Pickup Time): Specifies the date and time when the package was scheduled for pickup, formatted as 'YYYY-MM-DD HH:MM', essential for ensuring timely collection.
+- 交回 (Return Time): Details the expected date and time of return for the package, formatted as 'YYYY-MM-DD HH:MM', vital for ensuring package tracking and completion of the delivery process.
+- Time: Indicates the general time of day ('AM' or 'PM') when the express delivery occurs, providing an additional time frame reference.
+
+Date: 2024-10-31  
+Express: Citibank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1258-9095  
+no: 92  
+Pickup Time: 2024-10-31 16:20  
+Return Time: 2024-11-01 17:00  
+Time: PM
+
+Date: 2024-10-31  
+Express: HSBC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1258-9011  
+no: 91  
+Pickup Time: 2024-10-31 16:20  
+Return Time: 2024-11-04 12:30  
+Time: PM
+
+Date: 2024-10-30  
+Express: HSBC x 3  
+Sender: Mandy IP  
+Order No.: 790771-1264-9095  
+no: 90  
+Pickup Time: 2024-10-30 16:10  
+Return Time: 2024-11-01 12:30  
+Time: PM
+
+Date: 2024-10-30  
+Express: Bank of Communications x 3  
+Sender: Mandy IP  
+Order No.: 790771-1265-9102  
+no: 89  
+Pickup Time: 2024-10-30 16:10  
+Return Time: 2024-10-31 16:20  
+Time: PM
+
+Date: 2024-10-30  
+Express: China Minsheng Bank x 2  
+Sender: Mandy IP  
+Order No.: 790771-1263-9088  
+no: 88  
+Pickup Time: 2024-10-30 16:10  
+Return Time: 2024-10-31 16:20  
+Time: PM
+
+Date: 2024-10-29  
+Express: Citibank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1272-9095  
+no: 87  
+Pickup Time: 2024-10-29 17:05  
+Return Time: 2024-10-30 16:10  
+Time: PM
+
+Date: 2024-10-29  
+Express: Shanghai Commercial Bank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1270-9081  
+no: 84  
+Pickup Time: 2024-10-29 17:05  
+Return Time: 2024-10-30 16:10  
+Time: PM
+
+Date: 2024-10-23  
+Express: Citibank x 1  
+Sender: Mandy IP  
+Order No.: 790771-1296-9053  
+no: 66  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-24 15:52  
+Time: PM
+
+Date: 2024-10-09  
+Express: HSBC x 5  
+Sender: Cody Lau  
+Order No.: 790771-1237-9074  
+no: 34  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 17:10  
+Time: PM
+
+Date: 2024-10-08  
+Express: HSBC x 2  
+Sender: Mandy IP  
+Order No.: 790771-1230-9025  
+no: 24  
+Pickup Time: 2024-10-08 16:30  
+Return Time: 2024-10-10 12:00  
+Time: PM
+
+Date: 2024-10-28  
+Express: HSBC x 5  
+Sender: Cody Lau  
+Order No.: 790771-1275-9018  
+no: 81  
+Pickup Time: 2024-10-28 16:12  
+Return Time: 2024-10-30 16:20  
+Time: PM
+
+Date: 2024-10-23  
+Express: Bank of China x 1  
+Sender: Mandy IP  
+Order No.: 790771-1293-9032  
+no: 65  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-03  
+Express: HSBC x 5  
+Sender: Cody Lau  
+Order No.: 790771-1204-9011  
+no: 9  
+Pickup Time: 2024-10-03 17:30  
+Return Time: 2024-10-07 12:30  
+Time: PM
+
+Date: 2024-10-14  
+Express: NCB x 2  
+Sender: Cody Lau  
+Order No.: 790771-1240-9039  
+no: 40  
+Pickup Time: 2024-10-14 17:10  
+Return Time: 2024-10-15 16:11  
+Time: PM
+
+Date: 2024-10-22  
+Express: O Bank x 2  
+Sender: Mandy IP  
+Order No.: 790771-1249-9102  
+no: 55  
+Pickup Time: 2024-10-22 16:20  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-04  
+Express: DBS x 1  
+Sender: Cody Lau  
+Order No.: 790771-1218-9053  
+no: 11  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-29  
+Express: Hang Seng x 2  
+Sender: Cody Lau  
+Order No.: 790771-1271-9088  
+no: 85  
+Pickup Time: 2024-10-29 17:05  
+Return Time: 2024-10-30 16:10  
+Time: PM
+
+Date: 2024-10-10  
+Express: Hang Seng x 1  
+Sender: Mandy IP  
+Order No.: 790771-1221-9018  
+no: 36  
+Pickup Time: 2024-10-10 17:30  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-24  
+Express: DBS x 2  
+Sender: Mandy IP  
+Order No.: 790771-1286-9039  
+no: 73  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-09  
+Express: Citibank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1219-9060  
+no: 31  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-22  
+Express: DBS x 1  
+Sender: Mandy IP  
+Order No.: 790771-1251-9060  
+no: 56  
+Pickup Time: 2024-10-22 16:20  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-04  
+Express: BOCOM x 1  
+Sender: Cody Lau  
+Order No.: 790771-1211-9102  
+no: 16  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 16:30  
+Time: PM
+
+Date: 2024-10-24  
+Express: ICBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1288-9053  
+no: 68  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-15  
+Express: Dah Sing x 1  
+Sender: Cody Lau  
+Order No.: 790771-1243-9060  
+no: 46  
+Pickup Time: 2024-10-16 12:25  
+Return Time: 2024-10-17 16:02  
+Time: PM
+
+Date: 2024-10-03  
+Express: BEA x 2  
+Sender: Cody Lau  
+Order No.: 790771-1205-9018  
+no: 6  
+Pickup Time: 2024-10-03 17:30  
+Return Time: 2024-10-04 17:21  
+Time: PM
+
+Date: 2024-10-08  
+Express: HSBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1227-9060  
+no: 26  
+Pickup Time: 2024-10-08 16:30  
+Return Time: 2024-10-09 17:00  
+Time: PM
+
+Date: 2024-10-04  
+Express: Hang Seng x 1  
+Sender: Cody Lau  
+Order No.: 790771-1209-9046  
+no: 17  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 16:30  
+Time: PM
+
+Date: 2024-10-16  
+Express: BOCOM x 2  
+Sender: Cody Lau  
+Order No.: 790771-1250-9053  
+no: 47  
+Pickup Time: 2024-10-16 17:09  
+Return Time: 2024-10-17 16:02  
+Time: PM
+
+Date: 2024-10-28  
+Express: BOC x 2  
+Sender: Cody Lau  
+Order No.: 790771-1279-9046  
+no: 79  
+Pickup Time: 2024-10-28 16:12  
+Return Time: 2024-10-30 16:20  
+Time: PM
+
+Date: 2024-10-22  
+Express: HSBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-992-9045  
+no: 59  
+Pickup Time: 2024-10-22 16:20  
+Return Time: 2024-10-24 15:52  
+Time: PM
+
+Date: 2024-10-04  
+Express: ICBC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1212-9011  
+no: 15  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-18  
+Express: HSBC x 3  
+Sender: Cody LAU  
+Order No.: 790771-1298-9067  
+no: 51  
+Pickup Time: 2024-10-21 12:28  
+Return Time: 2024-10-23 12:40  
+Time: PM
+
+Date: 2024-10-04  
+Express: Da Zhong x 1  
+Sender: Cody Lau  
+Order No.: 790771-1206-9025  
+no: 18  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-14  
+Express: HSBC x 3  
+Sender: Cody Lau  
+Order No.: 790771-1244-9067  
+no: 41  
+Pickup Time: 2024-10-14 17:10  
+Return Time: 2024-10-16 12:25  
+Time: PM
+
+Date: 2024-10-02  
+Express: DBS x 1  
+Sender: Cody Lau  
+Order No.: 790771-1202-9095  
+no: 2  
+Pickup Time: 2024-10-02 18:00  
+Return Time: 2024-10-03 17:30  
+Time: PM
+
+Date: 2024-10-17  
+Express: OB x 2  
+Sender: Mandy IP  
+Order No.: 790771-1223-9032  
+no: 49  
+Pickup Time: 2024-10-18 12:01  
+Return Time: 2024-10-21 10:28  
+Time: PM
+
+Date: 2024-10-24  
+Express: BCC x 2  
+Sender: Mandy IP  
+Order No.: 790771-1290-9011  
+no: 74  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-24  
+Express: Hang Seng x 1  
+Sender: Mandy IP  
+Order No.: 790771-1291-9018  
+no: 72  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-23  
+Express: SCB x 1  
+Sender: Mandy IP  
+Order No.: 790771-1295-9046  
+no: 64  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-24 15:52  
+Time: PM
+
+Date: 2024-10-24  
+Express: Fubon x 1  
+Sender: Mandy IP  
+Order No.: 790771-1292-9025  
+no: 70  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-25  
+Express: BOC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1283-9018  
+no: 76  
+Pickup Time: 2024-10-25 16:10  
+Return Time: 2024-10-28 12:13  
+Time: PM
+
+Date: 2024-10-04  
+Express: BOC x 5  
+Sender: Cody Lau  
+Order No.: 790771-1210-9095  
+no: 20  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-09  
+Express: DBS x 3  
+Sender: Cody Lau  
+Order No.: 790771-1239-9088  
+no: 32  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-08  
+Express: O Bank x 2  
+Sender: Mandy IP  
+Order No.: 790771-1228-9067  
+no: 25  
+Pickup Time: 2024-10-08 16:30  
+Return Time: 2024-10-09 17:00  
+Time: PM
+
+Date: 2024-10-15  
+Express: SCB x 2  
+Sender: Cody Lau  
+Order No.: 790771-1246-9081  
+no: 44  
+Pickup Time: 2024-10-16 12:25  
+Return Time: 2024-10-17 16:02  
+Time: PM
+
+Date: 2024-10-10  
+Express: BCC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1226-9053  
+no: 38  
+Pickup Time: 2024-10-10 17:30  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-21  
+Express: Dah Sing x 2  
+Sender: Mandy IP  
+Order No.: 790771-1255-9088  
+no: 53  
+Pickup Time: 2024-10-22 12:40  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-28  
+Express: China Minsheng Bank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1278-9039  
+no: 83  
+Pickup Time: 2024-10-29 12:30  
+Return Time: 2024-10-30 16:10  
+Time: PM
+
+Date: 2024-10-25  
+Express: OCBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1281-9102  
+no: 77  
+Pickup Time: 2024-10-25 16:10  
+Return Time: 2024-10-28 16:12  
+Time: PM
+
+Date: 2024-10-04  
+Express: Chiyu x 1  
+Sender: Cody Lau  
+Order No.: 790771-1213-9018  
+no: 14  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 16:30  
+Time: PM
+
+Date: 2024-10-17  
+Express: DBS x 1  
+Sender: Mandy IP  
+Order No.: 790771-1302-9018  
+no: 48  
+Pickup Time: 2024-10-18 12:01  
+Return Time: 2024-10-21 10:28  
+Time: PM
+
+Date: 2024-10-03  
+Express: OB x 1  
+Sender: Cody Lau  
+Order No.: 790771-1207-9032  
+no: 7  
+Pickup Time: 2024-10-03 17:30  
+Return Time: 2024-10-04 17:21  
+Time: PM
+
+Date: 2024-10-02  
+Express: BOC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1200-9081  
+no: 4  
+Pickup Time: 2024-10-02 18:00  
+Return Time: 2024-10-04 12:30  
+Time: PM
+
+Date: 2024-10-09  
+Express: NCB x 1  
+Sender: Cody Lau  
+Order No.: 790771-1235-9060  
+no: 30  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-04  
+Express: Wing Hang x 1  
+Sender: Cody Lau  
+Order No.: 790771-1214-9025  
+no: 12  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-04  
+Express: BOC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1215-9032  
+no: 19  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 12:00  
+Time: PM
+
+Date: 2024-10-21  
+Express: BOC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1253-9074  
+no: 54  
+Pickup Time: 2024-10-22 12:40  
+Return Time: 2024-10-23 12:40  
+Time: PM
+
+Date: 2024-10-24  
+Express: BOC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1301-9011  
+no: 71  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-28 12:13  
+Time: PM
+
+Date: 2024-10-02  
+Express: Hang Seng x 1  
+Sender: Cody Lau  
+Order No.: 790771-1199-9053  
+no: 5  
+Pickup Time: 2024-10-02 18:00  
+Return Time: 2024-10-03 17:30  
+Time: PM
+
+Date: 2024-10-14  
+Express: SCB x 1  
+Sender: Cody Lau  
+Order No.: 790771-1242-9053  
+no: 39  
+Pickup Time: 2024-10-14 17:10  
+Return Time: 2024-10-15 16:11  
+Time: PM
+
+Date: 2024-10-23  
+Express: BOC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1299-9074  
+no: 63  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-03  
+Express: Dah Sing x 1  
+Sender: Cody Lau  
+Order No.: 790771-1208-9039  
+no: 8  
+Pickup Time: 2024-10-03 17:30  
+Return Time: 2024-10-04 17:21  
+Time: PM
+
+Date: 2024-10-09  
+Express: BOC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1238-9081  
+no: 33  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 17:10  
+Time: PM
+
+Date: 2024-10-08  
+Express: SCB x 1  
+Sender: Mandy IP  
+Order No.: 790771-1229-9074  
+no: 23  
+Pickup Time: 2024-10-08 16:30  
+Return Time: 2024-10-09 17:00  
+Time: AM
+
+Date: 2024-10-15  
+Express: HSBC x 2  
+Sender: Cody Lau  
+Order No.: 790771-1245-9074  
+no: 43  
+Pickup Time: 2024-10-16 12:25  
+Return Time: 2024-10-17 12:09  
+Time: PM
+
+Date: 2024-10-07  
+Express: Dah Sing x 1  
+Sender: Mandy IP  
+Order No.: 790771-1231-9032  
+no: 22  
+Pickup Time: 2024-10-08 12:00  
+Return Time: 2024-10-08 16:30  
+Time: AM
+
+Date: 2024-10-17  
+Express: HSBC x 2  
+Sender: Mandy IP  
+Order No.: 790771-1224-9039  
+no: 50  
+Pickup Time: 2024-10-18 12:01  
+Return Time: 2024-10-21 10:28  
+Time: PM
+
+Date: 2024-10-09  
+Express: Da Zhong x 1  
+Sender: Cody Lau  
+Order No.: 790771-1233-9046  
+no: 29  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-09  
+Express: Dah Sing x 2  
+Sender: Cody Lau  
+Order No.: 790771-1234-9053  
+no: 28  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-28  
+Express: Citic x 1  
+Sender: Cody Lau  
+Order No.: 790771-1274-9011  
+no: 78  
+Pickup Time: 2024-10-28 16:12  
+Return Time: 2024-10-29 17:05  
+Time: PM
+
+Date: 2024-10-29  
+Express: HSBC x 2  
+Sender: Cody Lau  
+Order No.: 790771-1273-9102  
+no: 86  
+Pickup Time: 2024-10-29 17:05  
+Return Time: 2024-10-31 12:30  
+Time: PM
+
+Date: 2024-10-22  
+Express: SCB x 1  
+Sender: Mandy IP  
+Order No.: 790771-1252-9067  
+no: 58  
+Pickup Time: 2024-10-22 16:20  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-24  
+Express: HSBC x 2  
+Sender: Mandy IP  
+Order No.: 790771-1294-9039  
+no: 69  
+Pickup Time: 2024-10-24 15:52  
+Return Time: 2024-10-28 12:13  
+Time: PM
+
+Date: 2024-10-15  
+Express: DBS x 1  
+Sender: Cody Lau  
+Order No.: 790771-1241-9046  
+no: 45  
+Pickup Time: 2024-10-16 12:25  
+Return Time: 2024-10-17 12:09  
+Time: PM
+
+Date: 2024-10-09  
+Express: Fubon x 2  
+Sender: Cody Lau  
+Order No.: 790771-1236-9067  
+no: 27  
+Pickup Time: 2024-10-09 17:00  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-28  
+Express: Citibank x 1  
+Sender: Cody Lau  
+Order No.: 790771-1277-9032  
+no: 82  
+Pickup Time: 2024-10-28 16:12  
+Return Time: 2024-10-29 17:05  
+Time: PM
+
+Date: 2024-10-23  
+Express: ICBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1247-9088  
+no: 61  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-24 15:52  
+Time: PM
+
+Date: 2024-10-04  
+Express: CCB x 1  
+Sender: Cody Lau  
+Order No.: 790771-1216-9039  
+no: 13  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 16:30  
+Time: PM
+
+Date: 2024-10-15  
+Express: BOC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1248-9095  
+no: 42  
+Pickup Time: 2024-10-16 12:25  
+Return Time: 2024-10-17 12:09  
+Time: PM
+
+Date: 2024-10-23  
+Express: DBS x 1  
+Sender: Mandy IP  
+Order No.: 790771-1287-9046  
+no: 67  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-24 15:52  
+Time: PM
+
+Date: 2024-10-02  
+Express: HSBC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1203-9102  
+no: 1  
+Pickup Time: 2024-10-02 18:00  
+Return Time: 2024-10-04 12:30  
+Time: PM
+
+Date: 2024-10-10  
+Express: DBS x 1  
+Sender: Mandy IP  
+Order No.: 790771-1220-9011  
+no: 37  
+Pickup Time: 2024-10-10 17:30  
+Return Time: 2024-10-14 12:30  
+Time: PM
+
+Date: 2024-10-25  
+Express: HSBC x 3  
+Sender: Mandy IP  
+Order No.: 790771-1285-9032  
+no: 75  
+Pickup Time: 2024-10-25 16:10  
+Return Time: 2024-10-28 12:13  
+Time: PM
+
+Date: 2024-10-07  
+Express: BCC x 2  
+Sender: Mandy IP  
+Order No.: 790771-1232-9039  
+no: 21  
+Pickup Time: 2024-10-08 12:00  
+Return Time: 2024-10-08 16:30  
+Time: AM
+
+Date: 2024-10-23  
+Express: HSBC x 4  
+Sender: Mandy IP  
+Order No.: 790771-1297-9060  
+no: 62  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-23  
+Express: HSBC x 5  
+Sender: Mandy IP  
+Order No.: 790771-1289-9060  
+no: 60  
+Pickup Time: 2024-10-23 16:28  
+Return Time: 2024-10-25 16:10  
+Time: PM
+
+Date: 2024-10-04  
+Express: Dah Sing x 1  
+Sender: Cody Lau  
+Order No.: 790771-1217-9046  
+no: 10  
+Pickup Time: 2024-10-07 12:30  
+Return Time: 2024-10-08 16:30  
+Time: PM
+
+Date: 2024-10-28  
+Express: HSBC x 1  
+Sender: Cody Lau  
+Order No.: 790771-1276-9025  
+no: 80  
+Pickup Time: 2024-10-28 16:12  
+Return Time: 2024-10-30 16:20  
+Time: PM
+
+Date: 2024-10-22  
+Express: CCB x 1  
+Sender: Mandy IP  
+Order No.: 790771-1254-9081  
+no: 57  
+Pickup Time: 2024-10-22 16:20  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-02  
+Express: SCB x 2  
+Sender: Cody Lau  
+Order No.: 790771-1201-9088  
+no: 3  
+Pickup Time: 2024-10-02 18:00  
+Return Time: 2024-10-03 17:30  
+Time: PM
+
+Date: 2024-10-18  
+Express: CitBank x 1  
+Sender: Cody LAU  
+Order No.: 790771-1300-9102  
+no: 52  
+Pickup Time: 2024-10-21 12:28  
+Return Time: 2024-10-23 16:28  
+Time: PM
+
+Date: 2024-10-10  
+Express: HSBC x 1  
+Sender: Mandy IP  
+Order No.: 790771-1222-9025  
+no: 35  
+Pickup Time: 2024-10-10 17:30  
+Return Time: 2024-10-14 12:30  
+Time: PM
